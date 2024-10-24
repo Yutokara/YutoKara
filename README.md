@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hello, I'm [Yuto Ota]!
+
+Welcome to my GitHub profile! Here are some of my projects and interests.
+
 
 <!--
 **Yutokara/YutoKara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
