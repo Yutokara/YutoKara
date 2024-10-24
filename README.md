@@ -1,6 +1,6 @@
-# Hello, I'm [Yuto Ota]!
+# Hello, I'm Yuto Ota!
 
-Welcome to my GitHub profile! Here are some of my projects and interests.
+Welcome to my GitHub profile! Nice to meet you!
 
 
 <!--
